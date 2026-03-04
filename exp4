@@ -1,7 +1,6 @@
 """
 Compiler Design Lab - Lab 4
 Program: Removal of Left Recursion and Left Factoring
-Author: Your Name
 Description:
 This program removes immediate left recursion and performs left factoring
 for a given context-free grammar production.
