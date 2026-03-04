@@ -1,6 +1,5 @@
 # Lab 5: FIRST and FOLLOW Computation (Fully Corrected)
 # Compiler Design Laboratory
-# Author: Dhaswini V
 
 from collections import defaultdict
 
